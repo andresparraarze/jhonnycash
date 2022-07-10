@@ -15,6 +15,7 @@ it is designed to get data from the databse and sync it and send it as requested
 
 ## Installation
 get the code, then npm i, then get the database then seed it and then you can run the program, dont forget to place your info on a dotenv file for mysql
+as shown in the video: https://drive.google.com/file/d/1QFiSgozoiF_5Xr_Re6_d29d3dJeUcii9/view
 
 ## Usage
 once is running in insomnia you should get the info and data according to the url requesting it
